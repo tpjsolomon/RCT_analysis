@@ -9,3 +9,8 @@
 <li>Linear mixed modeling.
 <ul>
 <p>A Bayesian model was also used to determine the likelihood of a treatment effect.
+<p>IMPORTANT: If the files cannot be viewed in GitHub, please view them in Google Colab:</p>
+<ul>
+  <li><a href="https://colab.research.google.com/drive/1aRWmOfpIW4VsoGKIcfeeNmPzma1i8nFi?usp=drive_link" target="_blank">RCT statistical analysis in Python</a>.</li>
+  <li><a href="https://colab.research.google.com/drive/1DrFwNGFjzUk3EAe89blB-2InTgQBtws-?usp=drive_link" target="_blank">RCT statistical analysis in R</a>.</li>
+</ul>
